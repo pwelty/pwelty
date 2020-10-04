@@ -30,7 +30,7 @@ twitter_username: pauljwelty
 github_username:  pwelty
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
